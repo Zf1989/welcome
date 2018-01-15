@@ -4,7 +4,7 @@
 ```
 class {'mac_profile::desktop_background':
   ensure                  => present,
-  desktop_background_path => '/Library/Desktop Pictures/Lion.jpg'
+  desktop_background_path => '/Users/Dean/desktop_background.jpg'
 }
 ```
 
